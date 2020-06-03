@@ -1,0 +1,13 @@
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\bin\Debug\netcoreapp3.1\AulaPOOCalculadora.exe
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\bin\Debug\netcoreapp3.1\AulaPOOCalculadora.deps.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\bin\Debug\netcoreapp3.1\AulaPOOCalculadora.runtimeconfig.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\bin\Debug\netcoreapp3.1\AulaPOOCalculadora.runtimeconfig.dev.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\bin\Debug\netcoreapp3.1\AulaPOOCalculadora.dll
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\bin\Debug\netcoreapp3.1\AulaPOOCalculadora.pdb
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\obj\Debug\netcoreapp3.1\AulaPOOCalculadora.csprojAssemblyReference.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\obj\Debug\netcoreapp3.1\AulaPOOCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\obj\Debug\netcoreapp3.1\AulaPOOCalculadora.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\obj\Debug\netcoreapp3.1\AulaPOOCalculadora.AssemblyInfo.cs
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\obj\Debug\netcoreapp3.1\AulaPOOCalculadora.dll
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\obj\Debug\netcoreapp3.1\AulaPOOCalculadora.pdb
+C:\Users\thiag_000\Projetos\C#\AulaPOOCalculadora\obj\Debug\netcoreapp3.1\AulaPOOCalculadora.genruntimeconfig.cache
